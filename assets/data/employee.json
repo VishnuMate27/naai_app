@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Stive Don",
+      "price": 25,
+      "rating": 5.0,
+      "services": ["Hair cutting", "Spa", "Nail Treatments","Waxing","Facials"],
+      "avatar": "https://img.freepik.com/free-photo/front-view-male-barber-holding-scissors-barbershop_23-2148985744.jpg?size=626&ext=jpg&uid=R83919232&ga=GA1.2.1067710584.1694376939"
+    },
+    {
+      "id": 2,
+      "name": "Alice Ley",
+      "price": 15,
+      "rating": 4.0,
+      "services": ["Hair cutting", "Facials", "Nail Treatments","Waxing","Manicure","Pedicure","Spa"],
+      "avatar": "https://img.freepik.com/free-photo/confident-young-female-barber-uniform-holding-scissors-isolated-orange-wall_141793-86485.jpg?size=626&ext=jpg&uid=R83919232&ga=GA1.2.1067710584.1694376939"
+    },
+    {
+      "id": 3,
+      "name": "Elon Bae",
+      "price": 12,
+      "rating": 3.5,
+      "services": ["Hair cutting","Spa","Waxing","Facials"],
+      "avatar": "https://img.freepik.com/free-photo/smiling-young-caucasian-male-barber-wearing-glasses-wavy-hair-band-uniform-holding-scissors-comb-isolated-white-background-with-copy-space_141793-32060.jpg?size=626&ext=jpg&uid=R83919232&ga=GA1.2.1067710584.1694376939"
+    },
+    {
+      "id": 4,
+      "name": "Mary Dan",
+      "price": 20,
+      "rating": 4.5,
+      "services": ["Make up", "Spa","Waxing","Facials", "Nail Treatments"],
+      "avatar": "https://img.freepik.com/free-photo/young-girl-with-short-hair-wearing-white-polo-shirt-looking-camera-with-serious-face-pointing-with-index-finger-up_141793-46485.jpg?size=626&ext=jpg&uid=R83919232&ga=GA1.2.1067710584.1694376939"
+    }
+  ]
+}
