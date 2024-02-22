@@ -311,6 +311,7 @@ class _BookingViewState extends State<BookingView> {
 
               ///Grand total and Book Now Button
               Row(
+
                 mainAxisAlignment: MainAxisAlignment.spaceBetween,
                 children: [
                   //Grand total text
