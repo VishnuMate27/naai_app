@@ -1,5 +1,4 @@
 import 'dart:async';
-
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:get/get.dart';
@@ -29,6 +28,7 @@ class MyApp extends StatelessWidget {
       child: GetMaterialApp(
         title: 'NAAI Assignment',
         home: SplashView(),
+        debugShowCheckedModeBanner: false,
       ),
     );
   }

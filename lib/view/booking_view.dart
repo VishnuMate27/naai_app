@@ -214,7 +214,7 @@ class _BookingViewState extends State<BookingView> {
               Container(
                 padding: EdgeInsets.symmetric(horizontal: 10.w),
                 height: 63.h,
-                width: 202.w,
+                width: 210.w,
                 decoration: BoxDecoration(
                   border: Border.all(),
                   borderRadius: BorderRadius.circular(10.r),
@@ -330,7 +330,6 @@ class _BookingViewState extends State<BookingView> {
                         Get.to(ConfirmationView(), arguments: itemNum);
                       },
                       child: Container(
-                        width: 115.w,
                         height: 48.h,
                         padding: EdgeInsets.symmetric(
                             horizontal: 20.w, vertical: 12.h),
@@ -350,6 +349,10 @@ class _BookingViewState extends State<BookingView> {
                     ),
                   ),
                 ],
+              ),
+              //Gap
+              SizedBox(
+                height: 20.h,
               )
             ],
           ),
